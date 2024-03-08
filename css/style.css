@@ -107,8 +107,18 @@ img {
 }
 .banner {
   background-color: #2e2f42;
-
   padding: 188px 0px;
+
+  background-color: #2e2f42;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(/images/bg-image/people-office.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-width: 1440px;
 }
 .banner-h {
   font-size: 56px;
