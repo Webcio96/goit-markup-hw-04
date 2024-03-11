@@ -130,7 +130,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(./images/bg-image/people-office.jpg);
+    url(../images/bg-image/people-office.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -191,6 +191,7 @@ img {
   background-color: #f4f4fd;
   border-radius: 4px;
   margin-bottom: 8px;
+  border: 1px solid #8e8f99;
 }
 .char-item {
   width: calc((100% - 72px) / 4);
